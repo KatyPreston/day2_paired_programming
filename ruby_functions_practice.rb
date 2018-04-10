@@ -18,3 +18,7 @@ end
 def divide(x, y)
  return 10 / 2
 end
+
+def length_of_string(s)
+  return "A length of string 21".length
+end
