@@ -22,3 +22,7 @@ end
 def length_of_string(s)
   return "A length of string 21".length
 end
+
+def join_string(string_1, string_2)
+ return "Mary had a little lamb, " + "its fleece was white as snow"
+end
